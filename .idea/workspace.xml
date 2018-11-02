@@ -7,17 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9acd70f-bbd6-4f48-b5df-606c80522e2a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/example/ws/LoginSOAP.java" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RampUpWebService_war_exploded/WEB-INF/classes/example/HelloLogin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RampUpWebService_war_exploded/WEB-INF/classes/example/HelloWorld.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RampUpWebService_war_exploded/WEB-INF/classes/example/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RampUpWebService_war_exploded/WEB-INF/classes/example/SpeakLogin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RampUpWebService_war_exploded/WEB-INF/sun-jaxws.xml" afterPath="$PROJECT_DIR$/out/artifacts/RampUpWebService_war_exploded/WEB-INF/sun-jaxws.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/RampUpWebService/example/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/RampUpWebService/example/SpeakLogin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/example/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/example/SpeakLogin.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/sun-jaxws.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/sun-jaxws.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,9 +34,10 @@
       <file leaf-file-name="LoginSOAP.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/example/ws/LoginSOAP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="240">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
+                <element signature="e#216#217#0" expanded="true" />
                 <element signature="e#251#252#0" expanded="true" />
               </folding>
             </state>
@@ -137,7 +128,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -168,6 +159,11 @@
             <path>
               <item name="RampUpWebService" type="b2602c69:ProjectViewProjectNode" />
               <item name="RampUpWebService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RampUpWebService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RampUpWebService" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RampUpWebService" type="b2602c69:ProjectViewProjectNode" />
@@ -485,15 +481,15 @@
       <option name="presentableId" value="Default" />
       <updated>1540920977577</updated>
       <workItem from="1540920986909" duration="88000" />
-      <workItem from="1540921117674" duration="16583000" />
+      <workItem from="1540921117674" duration="17114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16671000" />
+    <option name="totallyTimeSpent" value="17202000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -708,9 +704,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/example/ws/LoginSOAP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="240">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
+            <element signature="e#216#217#0" expanded="true" />
             <element signature="e#251#252#0" expanded="true" />
           </folding>
         </state>
